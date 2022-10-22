@@ -1,0 +1,23 @@
+{
+  "name": "foab",
+  "version": "0.0.1",
+  "description": "Father of All Bots",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triteras/FOAB.git"
+  },
+  "author": "Louan, LipoGames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triteras/FOAB/issues"
+  },
+  "homepage": "https://github.com/Triteras/FOAB#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
